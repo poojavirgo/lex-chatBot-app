@@ -1,3 +1,20 @@
+# 🤖 AWS Lex Chatbot App
+
+A simple and elegant React.js chatbot interface powered by **Amazon Lex V2**.  
+Users can chat with a conversational bot using real-time messaging and session handling.
+
+---
+
+## 🚀 Features
+
+- 🧠 Conversational AI via **AWS Lex**
+- 🎨 Clean React UI with hooks and state management
+- 💬 Real-time message display
+- ✅ Ready to deploy (Vercel, Netlify, S3)
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
